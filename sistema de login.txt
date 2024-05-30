@@ -1,0 +1,3 @@
+digite seu e-mai
+digite sua senha
+digite sua idade
